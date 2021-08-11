@@ -1,0 +1,17 @@
+.sidebar_chat{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.form_content{
+    display: flex;
+    margin-left: 20px;
+    border-bottom: 1px solid black;
+}
+.chat_avatar{
+    position: relative;
+    top: 7px;
+}
+.form_content div h3{
+    padding-left: 8rem;
+}
